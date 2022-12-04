@@ -9,3 +9,7 @@
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16s);
     cursor: pointer;
 }
+
+.poke-cell:hover {
+    border: 2px solid rgb(155, 22, 104);
+}
