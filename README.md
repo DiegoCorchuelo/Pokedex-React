@@ -4,4 +4,4 @@ Click aquí para probar la app => **[Pokedex-App](https://diegocorchuelo.github.
 
 ## App image: 
   
-![todo](./public/pokemon.png)
+![todo](./public/image.png)
